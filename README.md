@@ -1,1 +1,1 @@
-# GTK-C-programming
+# QT-CPP-programming
