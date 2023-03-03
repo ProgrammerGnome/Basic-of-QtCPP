@@ -1,1 +1,1 @@
-# QT-CPP-programming
+# Basic of QtCPP
