@@ -19,7 +19,9 @@ void MainWindow::on_pushButton_clicked()
   int number = 10;
 
   text = ui->lineEdit->text();
+  //text = ui->textEdit->toPlainText();
   int num = QVariant(text).toInt() + number;
 
   ui->plainTextEdit->setPlainText(QVariant(num).toString());
+  //ui->textEdit->setText(text);
 }
